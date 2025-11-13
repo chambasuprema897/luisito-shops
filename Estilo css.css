@@ -1,0 +1,39 @@
+.controls {
+        width: 100px;
+        background: #000000;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 1px solid #253f78;
+        font-family: 'calibri';
+        font-size: 18px;
+        color: white;
+
+    }
+
+    .form-register p {
+        height: 40px;
+        text-align: center;
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    .form-register a {
+        color: rgb(65, 161, 194);
+        text-decoration: none;
+    }
+
+    .form-register a:hover {
+        color: rgb(125, 97, 186);
+        text-decoration: underline;
+    }
+
+    .form-register .botons {
+        width: 100%;
+        background: #1f53c5;
+        border: none;
+        padding: 12px;
+        color: rgb(255, 255, 255);
+        margin: 16px 0;
+        font-family: 16px;
+    }
